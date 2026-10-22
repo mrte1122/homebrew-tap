@@ -1,6 +1,6 @@
 cask "quotacat" do
-  version "1.7.0"
-  sha256 "b3380eb742d89fbca517b22494727811a184b5ddb59d1fcc12cc792f7403a0b2"
+  version "1.7.1"
+  sha256 "da2fd8098053848a4d201fa2412b59e07d5264cd2837355f34ba8cd8c2be9f97"
 
   url "https://github.com/mrte1122/Quotacat/releases/download/v#{version}/Quotacat.zip"
   name "Quotacat"
