@@ -3,9 +3,12 @@
 Homebrew casks for apps by [@mrte1122](https://github.com/mrte1122).
 
 ```bash
+brew trust mrte1122/tap
 brew install --cask mrte1122/tap/quotacat
 brew install --cask mrte1122/tap/steamwatch
 ```
+
+Recent Homebrew versions only load casks from third-party taps you've trusted, so run `brew trust mrte1122/tap` once before the first install. Without it, Homebrew stops with "Refusing to load cask … from untrusted tap".
 
 | Cask | App |
 |---|---|
