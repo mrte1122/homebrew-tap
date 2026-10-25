@@ -1,6 +1,6 @@
 cask "steamwatch" do
-  version "0.3.0"
-  sha256 "452353bd71e5ae048aadd4fa33750b37046f54ab026c7d1f236aca8143332853"
+  version "0.4.0"
+  sha256 "38a8c3d7b4d070cc4df727c969bb5bb90cae0bd06e4e0c48084231050e810499"
 
   url "https://github.com/mrte1122/Steamwatch/releases/download/v#{version}/Steamwatch.zip"
   name "Steamwatch"
