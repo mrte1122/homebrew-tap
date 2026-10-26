@@ -1,6 +1,6 @@
 cask "vaporwatch" do
-  version "0.6.0"
-  sha256 "1c5744666218b39487297695db66fcf9d3e23a1cb20349a3b23d524e56fd56cf"
+  version "0.7.0"
+  sha256 "23aad30b32f580a9f9d3c82bfa28367dcd54dc02a951de8f8f237d4160767daf"
 
   url "https://github.com/mrte1122/Vaporwatch/releases/download/v#{version}/Vaporwatch.zip"
   name "Vaporwatch"
